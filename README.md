@@ -1,9 +1,9 @@
 # Twitter Sentiment Analysis :blue_heart: :bird:
-A popular mmorpg, GW2, has recently released its third expansion. Using the Twitter API, through tweepy,
+A popular MMORPG, GW2, has recently released its third expansion. Using the Twitter API, through tweepy,
 to collect data and BERT to estimate sentiment, we can get an idea of how has the game being received by the community.
 
 # Data
-The data was collected using Tweepy to connect to the Twitter API. More than 1,000 tweets were collected containing the hashtag '#GW2EOD' for Guild Wars 2, End of Dragons.
+The data was collected using Tweepy to connect to the Twitter API. More than 1,000 tweets were collected containing the hashtag '#GW2EOD' for Guild Wars 2, End of Dragons -the new release from the game developer ArenaNet.
 
 ### Use of:
 Python version: 3.9.7
