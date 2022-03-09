@@ -25,6 +25,7 @@ We can see that the vast majority of tweets are positive regarding the new relea
 ----
 
 Among those who seem to appreciate the game we can see that they find the new game "fun", "amazing", and "beautiful".
+
 ![Positive Cloud of Words](https://github.com/pcmaldonado/Twitter_Sentiment_Analysis/blob/main/pos_word_cloud.png)
 
 ----
