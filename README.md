@@ -4,7 +4,7 @@ to collect data and BERT to estimate sentiment, we can get an idea of how has th
 
 After conducting this analysis the game seems a success and the community seem to appreciate and enjoy the new release by ArenaNet. 
 
-Since the data was collected, a few things appearing in negative tweets and have been adressed by the developer (e.g. fixed bugs) which could mean that the number of positive tweets could be even higher.
+Since the data was collected, a few things appearing in negative tweets have been adressed by the developer (e.g. fixed bugs) which could mean that the number of positive tweets would be even higher.
 
 # Data
 The data was collected using Tweepy to connect to the Twitter API. More than 1,000 tweets were collected containing the hashtag '#GW2EOD' for Guild Wars 2, End of Dragons -the new release from the game developer ArenaNet.
